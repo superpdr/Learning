@@ -34,7 +34,7 @@ cout<<"Learning Github"<<endl;
 
 void june_joining(){
 	
-	cout<<"restarting the Git training for New batch "<<endl;
+cout<<"restarting the Git training for New batch "<<endl;
 }
 
 int main()
@@ -47,6 +47,6 @@ int main()
         Display();
         show();
         print();
-		june_joining();
+	june_joining();
         return 0;
 }
